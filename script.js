@@ -1,7 +1,7 @@
 // Get modal elements
 const modal = document.getElementById('videoModal');
 const videoPlayer = document.getElementById('videoPlayer');
-const closeBtn = document.getElementsByClassName('close')[0];
+const closeBtn = document.querySelector('.close');
 
 // Get all video links
 const videoLinks = document.querySelectorAll('.video-link');
