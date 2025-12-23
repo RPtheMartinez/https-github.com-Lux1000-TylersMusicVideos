@@ -22,11 +22,13 @@ A web page showcasing Tyler, The Creator's music videos with an elegant album-ba
 
 ## Albums Included
 
-- **Flower Boy (2017)** - 14 tracks
-- **IGOR (2019)** - 12 tracks with 2 music videos
-- **Call Me If You Get Lost (2021)** - 14 tracks with 2 music videos
+- **Flower Boy (2017)** - 14 tracks with 3 music videos
+- **IGOR (2019)** - 12 tracks with 5 music videos
+- **Call Me If You Get Lost (2021)** - 15 tracks with 4 music videos
 - **Goblin (2011)** - 15 tracks with 1 music video
 - **Cherry Bomb (2015)** - 13 tracks with 2 music videos
+
+**Total: 15+ music videos available to watch!**
 
 ## Technologies
 
