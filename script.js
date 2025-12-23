@@ -37,7 +37,7 @@ closeBtn.onclick = closeVideo;
 
 // Close modal when clicking outside the video
 window.onclick = function(event) {
-    if (event.target == modal) {
+    if (event.target === modal) {
         closeVideo();
     }
 }
